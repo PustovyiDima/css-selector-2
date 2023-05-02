@@ -66,11 +66,11 @@
     background-color: red;
 }
 .lesson-four-task-sixteen form input:out-of-range{
-    background-color: red !important;
+  color: red;
 }
 
 .lesson-four-task-seventeen form input:in-range{
-    background-color: red !important;
+    color: red;
 }
 
 .lesson-four-task-eighteen input:placeholder-shown{
